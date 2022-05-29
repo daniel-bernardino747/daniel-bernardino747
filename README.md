@@ -1,4 +1,4 @@
-## Olá, bem-vinda(o) ao meu perfil, me chamo Daniel Bernardino e sou desenvolvedor junior!
+## Olá, me chamo Daniel Bernardino e sou desenvolvedor junior. Seja bem-vinda(o) ao meu perfil!
 <div>
   <a href="https://github.com/daniel-bernardino747">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=daniel-bernardino747&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
