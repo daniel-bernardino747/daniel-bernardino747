@@ -15,7 +15,7 @@
 
 ##
 
-<div>
+<div align="center">
   <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-bernardino747&show_icons=true&locale=en&layout=compact" alt="daniel-bernardino747" />
   &nbsp;
   <img height="120em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-bernardino747&" alt="daniel-bernardino747" />
