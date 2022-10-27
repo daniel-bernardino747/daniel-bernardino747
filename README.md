@@ -3,7 +3,7 @@
 
 ##
 
-- 🔭 I’m currently working on Track It!
+- 🔭 I’m currently working on [Track It](https://github.com/daniel-bernardino747/TrackIt)!
 
 - 🌱 I’m currently learning **React Native**
 
