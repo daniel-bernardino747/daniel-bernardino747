@@ -13,15 +13,6 @@
 
 - ⚡ Fun fact **I put rice on top of beans**
 
-##
-
-<div align="center">
-  <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-bernardino747&show_icons=true&locale=en&layout=compact" alt="daniel-bernardino747" />
-  &nbsp;
-  <img height="120em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-bernardino747&" alt="daniel-bernardino747" />
-  <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-bernardino747&show_icons=true&locale=en" alt="daniel-bernardino747" />
-</div>
-
 <div>
   <div>
     <h2>Languages</h2>
@@ -38,6 +29,15 @@
       <img align="center" alt="iconReact" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     </div>
   </div>
+</div>
+
+##
+
+<div align="center">
+  <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-bernardino747&show_icons=true&locale=en&layout=compact" alt="daniel-bernardino747" />
+  &nbsp;
+  <img height="120em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-bernardino747&" alt="daniel-bernardino747" />
+  <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-bernardino747&show_icons=true&locale=en" alt="daniel-bernardino747" />
 </div>
 
 ## Links
