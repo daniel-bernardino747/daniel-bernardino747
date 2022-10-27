@@ -16,10 +16,10 @@
 ##
 
 <div>
-  <img height="130em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-bernardino747&show_icons=true&locale=en&layout=compact" alt="daniel-bernardino747" />
+  <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-bernardino747&show_icons=true&locale=en&layout=compact" alt="daniel-bernardino747" />
   &nbsp;
-  <img height="150em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-bernardino747&" alt="daniel-bernardino747" />
-  <img height="130em" align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-bernardino747&show_icons=true&locale=en" alt="daniel-bernardino747" />
+  <img height="120em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-bernardino747&" alt="daniel-bernardino747" />
+  <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-bernardino747&show_icons=true&locale=en" alt="daniel-bernardino747" />
 </div>
 
 <div>
