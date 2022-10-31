@@ -2,6 +2,8 @@
 <h3 align="center">Between dramas and programs, poems and systems, nerdiness and sameness, magic and logic, young dev I am, trying to understand things from {1 to N} and sometimes even program them!</h3>
 
 ##
+Selecione outro idioma: [português](https://github.com/daniel-bernardino747/daniel-bernardino747/blob/main/README-PT.md) 
+##
 
 - 🔭 I’m currently working on [Track It](https://github.com/daniel-bernardino747/TrackIt)!
 
