@@ -2,7 +2,7 @@
 <h3 align="center">Entre dramas e programas, poemas e sistemas, nerdices e mesmices, magia e lógica, jovem dev que sou, tentando entender as coisas de {1 a N} e às vezes até programá-las!</h3>
 
 ##
-**_Selecione outro idioma:_** [inglês](https://github.com/daniel-bernardino747/daniel-bernardino747/blob/main/README.md)
+**_Select another language:_ [English](https://github.com/daniel-bernardino747/daniel-bernardino747/blob/main/README.md)**
 ##
 
 - 🔭 Estou atualmente trabalhando no [Track It](https://github.com/daniel-bernardino747/TrackIt)!
