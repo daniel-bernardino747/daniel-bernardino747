@@ -5,9 +5,9 @@
 **_Selecione outro idioma:_ [português](https://github.com/daniel-bernardino747/daniel-bernardino747/blob/main/README-PT.md)**
 ##
 
-- 🔭 I’m currently working on [Track It](https://github.com/daniel-bernardino747/TrackIt)!
+- 🔭 My lastest project [DingaShop(eCommerce)](https://github.com/daniel-bernardino747/DingaShop-F)!
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native and TypeScript**
 
 - 💬 Ask me about **Javascript, React or CSS**
 
