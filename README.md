@@ -1,17 +1,21 @@
-<h1 align="center">Hi 👋, I'm Daniel Bernardino</h1>
-<h3 align="center">Between dramas and programs, poems and systems, nerdiness and sameness, magic and logic, young dev I am, trying to understand things from {1 to N} and sometimes even program them!</h3>
+<h1 align="center">Hi  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">, I'm Daniel Bernardino</h1>
 
-##
+[![Gmail Badge](https://img.shields.io/badge/-dn.danielbernardino@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dn.danielbernardino@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Daniel-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samujjwaal/ "Connect on LinkedIn")
+[![Instagram Badge](https://img.shields.io/badge/-@daniel__bernardino-f25b85?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/daniel__bernardino/ "Follow on Instagram")
+[![Dev.to Badge](https://img.shields.io/badge/-daniel__bernardino-000000?style=flat&logo=dev.to&logoColor=white)](https://dev.to/daniel__bernardino/ "Follow on Dev.to")
+[![wakatime](https://wakatime.com/badge/user/405812c5-287c-467b-acf7-6adc655d02a2.svg)](https://wakatime.com/@405812c5-287c-467b-acf7-6adc655d02a2)
+
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 **_Selecione outro idioma:_ [português](https://github.com/daniel-bernardino747/daniel-bernardino747/blob/main/README-PT.md)**
 ##
 
-- 🔭 My lastest project [DingaShop(eCommerce)](https://github.com/daniel-bernardino747/DingaShop-F)!
+- 🔭 My lastest project [Shortly(Back-end)](https://github.com/daniel-bernardino747/Shortly-B)!
 
-- 🌱 I’m currently learning **React Native and TypeScript**
+- 🌱 I’m currently learning **Nest.js and Next.js**
 
-- 💬 Ask me about **Javascript, React or CSS**
-
-- 📫 How to reach me **dn.danielbernardino@gmail.com**
+- 💬 Ask me about **Javascript, Typescript, React and NodeJS**
 
 - ⚡ Fun fact **I put rice on top of beans**
 
@@ -49,21 +53,125 @@
     </div>
   </div>
   
+  
+  
+  
+  
   <div>
-    <h2>Libs</h2>
+    <h2>Libs and Tools</h2>
     <div>
-      <a href="http://pt-br.reactjs.org/" target="blank">
+      <a href="http://reactjs.org/" target="blank">
          <img align="center" alt="iconReact" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      </a>
+      <a href="https://nodejs.org/en/" target="blank">
+         <img align="center" alt="iconNode" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+      </a>
+      <a href="https://www.typescriptlang.org/" target="blank">
+         <img align="center" alt="typescriptlang" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+      </a>
+      <a href="https://expressjs.com/" target="blank">
+         <img align="center" alt="express" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+      </a>
+      <a href="https://eslint.org/" target="blank">
+         <img align="center" alt="iconNode" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
+      </a>
+      <a href="https://www.mongodb.com/home" target="blank">
+         <img align="center" alt="mongodb" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+      </a>
+      <a href="https://www.postgresql.org/" target="blank">
+         <img align="center" alt="" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+      </a>
+      <a href="https://tailwindcss.com/" target="blank">
+         <img align="center" alt="tailwindcss" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+      </a>
+      <a href="" target="blank">
+         <img align="center" alt="" height"60" width="80" src="" />
       </a>
     </div>
     _____
     <div>
       <a href="http://pt-br.reactjs.org/" target="blank">
-         <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&color=5ed2f2&link=https://pt-br.reactjs.org/" /> 
+         <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&color=5ed2f2" /> 
+      </a>
+      <a href="https://nodejs.org/en/" target="blank">
+         <img src="https://img.shields.io/badge/-NodeJS-blue?style=for-the-badge&color=83ce3f" /> 
+      </a>
+      <a href="https://www.typescriptlang.org/" target="blank">
+         <img src="https://img.shields.io/badge/-Typescript-blue?style=for-the-badge&color=007acc" /> 
+      </a>
+      <a href="https://expressjs.com/" target="blank">
+         <img src="https://img.shields.io/badge/-express-blue?style=for-the-badge&color=fff" /> 
+      </a>
+      <a href="https://eslint.org/" target="blank">
+         <img src="https://img.shields.io/badge/-Eslint-blue?style=for-the-badge&color=4c63ba" /> 
+      </a>
+      <a href="https://www.mongodb.com/home" target="blank">
+         <img src="https://img.shields.io/badge/-mongodb-blue?style=for-the-badge&color=439934" /> 
+      </a>
+      <a href="https://www.postgresql.org/" target="blank">
+         <img src="https://img.shields.io/badge/-postgresql-blue?style=for-the-badge&color=336791" /> 
+      </a>
+      <a href="https://tailwindcss.com/" target="blank">
+         <img src="https://img.shields.io/badge/-tailwindcss-blue?style=for-the-badge&color=38b2ac" /> 
+      </a>
+    </div>
+  </div>
+  
+  
+  
+  
+  
+  <div>
+    <h2>Editors and Tools</h2>
+    <div>
+      <a href="https://www.jetbrains.com/" target="blank">
+         <img align="center" alt="jetbrains" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
+      </a>
+      <a href="https://code.visualstudio.com/" target="blank">
+         <img align="center" alt="vscode" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+         <a href="https://git-scm.com/" target="blank">
+         <img align="center" alt="git" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+      </a>
+      <a href="https://www.figma.com/" target="blank">
+         <img align="center" alt="figma" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+      </a>
+      <a href="https://jupyter.org/" target="blank">
+         <img align="center" alt="express" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+      </a>
+      <a href="https://www.mysql.com/" target="blank">
+         <img align="center" alt="mysql" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+      </a>
+      <a href="https://kernel.org/" target="blank">
+         <img align="center" alt="linux" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+      </a>
+    </div>
+    _____
+    <div>
+      <a href="https://www.jetbrains.com/" target="blank">
+         <img src="https://img.shields.io/badge/-jetbrains-blue?style=for-the-badge&color=000" /> 
+      </a>
+      <a href="https://code.visualstudio.com/" target="blank">
+         <img src="https://img.shields.io/badge/-vscode-blue?style=for-the-badge&color=0176c6" /> 
+      </a>
+      <a href="https://git-scm.com/" target="blank">
+         <img src="https://img.shields.io/badge/-git-blue?style=for-the-badge&color=f35034" /> 
+      </a>
+      <a href="https://www.figma.com/" target="blank">
+         <img src="https://img.shields.io/badge/-figma-blue?style=for-the-badge&color=e864a1" /> 
+      </a>
+      <a href="https://jupyter.org/" target="blank">
+         <img src="https://img.shields.io/badge/-jupiter-blue?style=for-the-badge&color=f3793a" /> 
+      </a>
+      <a href="https://www.mysql.com/" target="blank">
+         <img src="https://img.shields.io/badge/-mysql-blue?style=for-the-badge&color=00618a" /> 
+      </a>
+      <a href="https://kernel.org/" target="blank">
+         <img src="https://img.shields.io/badge/-linux-blue?style=for-the-badge&color=fed24e" /> 
       </a>
     </div>
   </div>
 </div>
+
 
 ##
 
@@ -74,18 +182,10 @@
   <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-bernardino747&show_icons=true&locale=en" alt="daniel-bernardino747" />
 </div>
 
-## Links
-
-<div>
-  <a href="https://dev.to/daniel__bernardino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="daniel__bernardino" height="60" width="80" /></a>
-  <a href="https://linkedin.com/in/danielbernardinodesouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielbernardinodesouza" height="60" width="80" /></a>
-  <a href="https://codesandbox.com/dn.danielbernardino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="dn.danielbernardino" height="60" width="80" /></a>
-  <a href="https://instagram.com/daniel__bernardino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daniel__bernardino" height="60" width="80" /></a>
-</div>
-
 ##
 
 <div>
   <img align="center" src="https://github.com/daniel-bernardino747/daniel-bernardino747/blob/output/github-contribution-grid-snake.svg" alt="snake-animation"/>
 </div>
 
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
