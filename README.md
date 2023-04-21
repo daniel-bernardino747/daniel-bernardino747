@@ -2,13 +2,15 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-dn.danielbernardino@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dn.danielbernardino@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samujjwaal/ "Connect on LinkedIn")
-[![Instagram Badge](https://img.shields.io/badge/-@daniel__bernardino-f25b85?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/daniel__bernardino/ "Follow on Instagram")
 [![Dev.to Badge](https://img.shields.io/badge/-daniel__bernardino-000000?style=flat&logo=dev.to&logoColor=white)](https://dev.to/daniel__bernardino/ "Follow on Dev.to")
 [![wakatime](https://wakatime.com/badge/user/405812c5-287c-467b-acf7-6adc655d02a2.svg)](https://wakatime.com/@405812c5-287c-467b-acf7-6adc655d02a2)
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<!-- [![Instagram Badge](https://img.shields.io/badge/-@daniel__bernardino-f25b85?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/daniel__bernardino/ "Follow on Instagram") c
+
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> -->
 
 **_Selecione outro idioma:_ [português](https://github.com/daniel-bernardino747/daniel-bernardino747/blob/main/README-PT.md)**
+
 ##
 
 - 🔭 My lastest project [Shortly(Back-end)](https://github.com/daniel-bernardino747/Shortly-B)!
@@ -22,21 +24,6 @@
 <div>
   <div>
     <h2>Languages</h2>
-    <div>
-      <a href="http://www.python.org/" target="blank">
-         <img align="center" height="60" width="80" alt="iconPython" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-      </a>
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/" target="blank">
-        <img align="center" height="60" width="80" alt="iconHTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-      </a>
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="blank">
-        <img align="center" height="60" width="80" alt="iconCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-      </a>
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/" target="blank">
-        <img align="center" height="60" width="80" alt="iconJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-      </a>
-    </div>
-    _____
     <div>
       <a href="http://www.python.org/" target="blank">
          <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&color=f1d356" /> 
@@ -53,42 +40,8 @@
     </div>
   </div>
   
-  
-  
-  
-  
   <div>
     <h2>Libs and Tools</h2>
-    <div>
-      <a href="http://reactjs.org/" target="blank">
-         <img align="center" alt="iconReact" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      </a>
-      <a href="https://nodejs.org/en/" target="blank">
-         <img align="center" alt="iconNode" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-      </a>
-      <a href="https://www.typescriptlang.org/" target="blank">
-         <img align="center" alt="typescriptlang" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-      </a>
-      <a href="https://expressjs.com/" target="blank">
-         <img align="center" alt="express" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-      </a>
-      <a href="https://eslint.org/" target="blank">
-         <img align="center" alt="iconNode" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
-      </a>
-      <a href="https://www.mongodb.com/home" target="blank">
-         <img align="center" alt="mongodb" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-      </a>
-      <a href="https://www.postgresql.org/" target="blank">
-         <img align="center" alt="" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-      </a>
-      <a href="https://tailwindcss.com/" target="blank">
-         <img align="center" alt="tailwindcss" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-      </a>
-      <a href="" target="blank">
-         <img align="center" alt="" height"60" width="80" src="" />
-      </a>
-    </div>
-    _____
     <div>
       <a href="http://pt-br.reactjs.org/" target="blank">
          <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&color=5ed2f2" /> 
@@ -125,29 +78,6 @@
     <h2>Editors and Tools</h2>
     <div>
       <a href="https://www.jetbrains.com/" target="blank">
-         <img align="center" alt="jetbrains" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
-      </a>
-      <a href="https://code.visualstudio.com/" target="blank">
-         <img align="center" alt="vscode" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-         <a href="https://git-scm.com/" target="blank">
-         <img align="center" alt="git" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-      </a>
-      <a href="https://www.figma.com/" target="blank">
-         <img align="center" alt="figma" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-      </a>
-      <a href="https://jupyter.org/" target="blank">
-         <img align="center" alt="express" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-      </a>
-      <a href="https://www.mysql.com/" target="blank">
-         <img align="center" alt="mysql" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-      </a>
-      <a href="https://kernel.org/" target="blank">
-         <img align="center" alt="linux" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-      </a>
-    </div>
-    _____
-    <div>
-      <a href="https://www.jetbrains.com/" target="blank">
          <img src="https://img.shields.io/badge/-jetbrains-blue?style=for-the-badge&color=000" /> 
       </a>
       <a href="https://code.visualstudio.com/" target="blank">
@@ -170,16 +100,6 @@
       </a>
     </div>
   </div>
-</div>
-
-
-##
-
-<div align="center">
-  <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-bernardino747&show_icons=true&locale=en&layout=compact" alt="daniel-bernardino747" />
-  &nbsp;
-  <img height="120em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-bernardino747&" alt="daniel-bernardino747" />
-  <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-bernardino747&show_icons=true&locale=en" alt="daniel-bernardino747" />
 </div>
 
 ##
