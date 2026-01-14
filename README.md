@@ -3,7 +3,7 @@
 **_Select another language:_ [English](./README-EN.md)**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINK_AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/danielbernardinodesouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:dn.danielbernardino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email"></a>
   <a href="https://dev.to/daniel__bernardino/"><img src="https://img.shields.io/badge/-Dev.to-000000?style=flat&logo=dev.to&logoColor=white" alt="Dev.to"></a>
   <a href="https://wakatime.com/@405812c5-287c-467b-acf7-6adc655d02a2"><img src="https://wakatime.com/badge/user/405812c5-287c-467b-acf7-6adc655d02a2.svg" alt="Wakatime"></a>
@@ -47,7 +47,6 @@ Engenheiro de Software Fullstack focado na criação de ecossistemas digitais de
 ### 🌟 Tipos de Soluções que Entrego
 *   **Plataformas de Produtividade & RH:** Sistemas de gestão de tarefas e dashboards de saúde organizacional.
 *   **Sistemas de Gestão (SaaS):** Migração de legados para nuvem e automação de registros com foco em UX/UI.
-*   **APIs de Automação Industrial:** Lógica complexa para controle de qualidade e automação de testes.
 *   **Aplicações Multiplataforma:** Ecossistemas unificados para Web, Desktop e Mobile.
 
 ---
@@ -55,7 +54,7 @@ Engenheiro de Software Fullstack focado na criação de ecossistemas digitais de
 ### 💬 Vamos conectar?
 Estou sempre interessado em discutir arquitetura de software, IA ou novas oportunidades técnicas.
 
-- **LinkedIn:** [linkedin.com/in/daniel-bernardino](https://www.linkedin.com/in/SEU_LINK_AQUI)
+- **LinkedIn:** [linkedin.com/in/daniel-bernardino](https://www.linkedin.com/in/danielbernardinodesouza)
 - **Email:** [dn.danielbernardino@gmail.com](mailto:dn.danielbernardino@gmail.com)
 
 ---
