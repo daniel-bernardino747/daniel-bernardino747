@@ -19,6 +19,9 @@ Open to remote contract (PJ) and freelance work.
 **[plaid-sync-ledger](https://github.com/daniel-bernardino747/plaid-sync-ledger)** — Plaid transaction sync that stays correct when it fails halfway. All 8 chaos scenarios, run as real processes (SIGKILL mid-commit, every webhook delivered 10 times, two concurrent workers, 30% of calls failing), end with the same ledger hash as the provider's ground truth. 13 ADRs.
 `TypeScript` `Next.js` `Cloudflare Workers` `PostgreSQL` `Prisma`
 
+**[scholia-mcp](https://github.com/daniel-bernardino747/scholia-mcp)** — A self-hosted second brain for AI agents: a remote MCP server where Claude saves distilled notes from conversations and searches them before answering, fusing pgvector and Postgres full-text search. From first commit to production in 2 days; on 14 real notes, 23 of 24 searches ranked the right note first.
+`Python` `FastMCP` `PostgreSQL` `pgvector` `Railway`
+
 **[zap-bench](https://github.com/daniel-bernardino747/zap-bench)** — The same WhatsApp attendance bot for a dental clinic, built five ways (Claude, GPT and Jev), run through the same cases with a patient who writes badly and scored by code. [See the results](https://labs.teamdbsolutions.com/demo/bot-whatsapp-ia-vs-jev).
 `TypeScript` `LLMs`
 
