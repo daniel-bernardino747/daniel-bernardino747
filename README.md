@@ -1,63 +1,42 @@
-# Daniel Bernardino | Fullstack Software Engineer
+# Daniel Bernardino
 
-**_Select another language:_ [English](./README-EN.md)**
+Full-stack engineer · Criciúma, Brazil · Building web products end to end.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/danielbernardinodesouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:dn.danielbernardino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email"></a>
-  <a href="https://dev.to/daniel__bernardino/"><img src="https://img.shields.io/badge/-Dev.to-000000?style=flat&logo=dev.to&logoColor=white" alt="Dev.to"></a>
-  <a href="https://wakatime.com/@405812c5-287c-467b-acf7-6adc655d02a2"><img src="https://wakatime.com/badge/user/405812c5-287c-467b-acf7-6adc655d02a2.svg" alt="Wakatime"></a>
-</p>
+I build web and mobile products from the database to the interface, and add AI where it actually helps. I care about software that stays fast, readable and easy to change after launch.
 
----
+Open to remote contract (PJ) and freelance work.
 
-### 👨‍💻 Perfil Profissional
-Engenheiro de Software Fullstack focado na criação de ecossistemas digitais de alta performance. Minha especialidade é transformar requisitos complexos em aplicações escaláveis, utilizando o que há de mais moderno no ecossistema **TypeScript** e integrações de **Inteligência Artificial**.
+[Site](https://www.teamdbsolutions.com) · [Résumé (PDF)](https://www.teamdbsolutions.com/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/danielbernardinodesouza/?locale=en) · [Email](mailto:dn.danielbernardino@gmail.com) · [Book a call](https://cal.com/daniel-bernardino-cdrdn0/get-off-the-ground)
 
-- 🛠️ **Arquitetura & Qualidade:** Praticante de TDD, Clean Architecture e revisões de código rigorosas.
-- 🚀 **Performance & SEO:** Especialista em Core Web Vitals e estratégias avançadas de renderização (SSR/SSG/ISR).
-- 🤖 **Inovação:** Experiência na integração de LLMs e modelos de Machine Learning (TensorFlow.js) em fluxos de software.
+## Selected work
 
----
+- **Square AI · CodeSquare** — AI pre-analysis of building-permit applications against municipal law. In a pilot with the Uberlândia city hall, an engineer's full analysis went from 3–4 days to under 1 day.
+- **Homeet · CodeSquare** — Page load cut from 7s to 1.5s and memory use by 30%; the platform was then adopted by 5 teams.
+- **iForth Systems** — As software manager, a weekly feedback loop took delivery time for core tasks from 4 days to 1 day and lifted team output by 200%.
 
-### 🏗️ Expertise & Stack Tecnológica
+## Open source
 
-#### **Frontend & UX**
-- **Linguagens & Frameworks:** TypeScript, JavaScript (ES6+), React, Next.js (App Router).
-- **Arquitetura de Interface:** Server Components, Design Systems, Responsive Design.
-- **Ferramentas & Bibliotecas:** Tailwind CSS, Storybook, React Hook Form, Zod, Clerk (Auth).
-- **Otimização:** Performance (Core Web Vitals), Technical SEO, Figma (Handoff).
+**[plaid-sync-ledger](https://github.com/daniel-bernardino747/plaid-sync-ledger)** — Plaid transaction sync that stays correct when it fails halfway. All 8 chaos scenarios, run as real processes (SIGKILL mid-commit, every webhook delivered 10 times, two concurrent workers, 30% of calls failing), end with the same ledger hash as the provider's ground truth. 13 ADRs.
+`TypeScript` `Next.js` `Cloudflare Workers` `PostgreSQL` `Prisma`
 
-#### **Backend & Intelligence**
-- **Core:** Node.js, TypeScript, NestJS, Python.
-- **API & Data:** REST APIs, OpenAPI (Swagger), Prisma (ORM), PostgreSQL.
-- **Performance & Security:** Redis (Caching & Rate Limiting), OAuth 2.0, JWT, RBAC.
-- **AI & ML:** TensorFlow.js, AI & LLM Integrations.
+**[zap-bench](https://github.com/daniel-bernardino747/zap-bench)** — The same WhatsApp attendance bot for a dental clinic, built five ways (Claude, GPT and Jev), run through the same cases with a patient who writes badly and scored by code. [See the results](https://labs.teamdbsolutions.com/demo/bot-whatsapp-ia-vs-jev).
+`TypeScript` `LLMs`
 
-#### **Testing & Quality**
-- **Testes:** Jest, React Testing Library, Cypress (E2E), TDD.
-- **Padronização:** ESLint, Prettier, Code Review.
+**[latente](https://github.com/daniel-bernardino747/latente)** — Invisible forensic watermark for photographers, running entirely in the browser: a 2048-bit block repeated 1913 times per image and recovered by bit-wise majority vote, with a robustness bench whose thresholds were set before any measurement. [Live demo](https://latente-mu.vercel.app).
+`JavaScript` `Vite` `Canvas API`
 
-#### **Cloud & DevOps**
-- **Infra:** AWS S3 (Static Hosting & Asset Management), Docker, Docker Compose.
-- **Workflow:** CI/CD (GitHub Actions), Git, Linux/Shell.
+**[skills](https://github.com/daniel-bernardino747/skills)** — My Claude Code agent skills and environment installer, including dont-let-me-forget, which turns "I don't want to forget this" into a resurfacing queue on a 1d → 3d → 1w → 2w → 4w ladder.
+`Node.js` `Claude Code`
+
+**[radar-tech-sul-sc](https://github.com/daniel-bernardino747/radar-tech-sul-sc)** — Telegram bot that gathers the tech events of southern Santa Catarina from Meetup, Sympla and local agendas, merges duplicates, and posts reminders and a weekly agenda.
+`Python` `Telegram Bot API` `Railway`
+
+More in **[Labs](https://labs.teamdbsolutions.com)**: concept demos built on public data, researched, designed and built by an orchestration of AI agents under my direction.
+
+## Stack
+
+TypeScript · React · Next.js · React Native · Node.js · NestJS · Python · PostgreSQL · Cloudflare Workers · Docker · LLM integrations
 
 ---
 
-### 🌟 Tipos de Soluções que Entrego
-*   **Plataformas de Produtividade & RH:** Sistemas de gestão de tarefas e dashboards de saúde organizacional.
-*   **Sistemas de Gestão (SaaS):** Migração de legados para nuvem e automação de registros com foco em UX/UI.
-*   **Aplicações Multiplataforma:** Ecossistemas unificados para Web, Desktop e Mobile.
-
----
-
-### 💬 Vamos conectar?
-Estou sempre interessado em discutir arquitetura de software, IA ou novas oportunidades técnicas.
-
-- **LinkedIn:** [linkedin.com/in/daniel-bernardino](https://www.linkedin.com/in/danielbernardinodesouza)
-- **Email:** [dn.danielbernardino@gmail.com](mailto:dn.danielbernardino@gmail.com)
-
----
-<p align="center">
-  <i>"A tecnologia move o mundo."</i>
-</p>
+Falo português — baseado em Criciúma/SC, aberto a vagas no Brasil.
